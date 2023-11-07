@@ -34,7 +34,7 @@ function App() {
         <section className='search'>
 
           <div className='inputSearch'>
-            <img src="./src/assets/images/search.svg" />
+            <img src="/search.svg" />
             <input
               type="text"
               placeholder='search for a country...'
@@ -48,7 +48,7 @@ function App() {
         <section className='filterCountry' onClick={onHandle}>
           <section className='titleFilter'>
             <p>Filter by Region</p>
-            <img src="./src/assets/images/expand-more.svg" className={`${stateRotate}`} />
+            <img src="/expand-more.svg" className={`${stateRotate}`} />
           </section>
           <section className={`options ${stateOptions}`}>
             {
