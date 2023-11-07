@@ -20,7 +20,7 @@ export const Country = () => {
                     <section className={style.containerCountry} key={index}>
                         <Link to={'/'}>
                             <section className={style.back}>
-                                <img src="./src/assets/images/arrow-back.svg" />
+                                <img src="/arrow-back.svg" />
                                 <p>Back</p>
                             </section>
                         </Link>
