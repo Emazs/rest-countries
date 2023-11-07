@@ -21,7 +21,7 @@ export const Header = () => {
                     className={style.mode}
                     onClick={onHandle}
                 >
-                    <img src="./src/assets/images/dark-mode.svg" />
+                    <img src="/dark-mode.svg" />
                     <p>Dark Mode</p>
                 </section>
             </section>
