@@ -6,7 +6,7 @@ Este desafio lo tome de fronten mentor.
 
 ### Screenshot
 
-![Design preview for the Intro section with dropdown navigation coding challenge](main/src/assets/design/desktop-preview.jpg)
+![Design preview for the Intro section with dropdown navigation coding challenge](https://raw.githubusercontent.com/Emazs/rest-countries/main/src/assets/design/desktop-preview.jpg)
 
 ### Links
 
