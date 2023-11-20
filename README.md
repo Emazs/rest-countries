@@ -1,4 +1,4 @@
-# Frontend Mentor - E-commerce product page
+# Frontend Mentor - Rest Countries API
 
 ## Welcome! 👋
 
@@ -10,12 +10,12 @@ Este desafio lo tome de fronten mentor.
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Emazs/ecommerce-react)
-- Live Site URL: [Github page](https://emazs.github.io/ecommerce-react/)
+- Solution URL: [Github](https://github.com/Emazs/rest-countries)
+- Live Site URL: [Github page](https://rest-countries-two-umber.vercel.app/)
 
 ## My process
 
-Este es uno de los primeros proyectos en los que utilizo React, sumado a que también aprendí a trabajar con estados globales usando useContext.
+Para este proyecto, utilicé una API pública para obtener la lista de países y mostrarla. Teniendo en cuenta que estos países podrían filtrarse mediante un buscador y además considerando su región. Lo más complicado para mí en este proyecto fue crear el filtro de búsqueda por nombre, ya que era la primera vez que lo hacía. También utilicé por primera vez el localStorage para gestionar el tema de la aplicación.
 
 ### Built with
 
@@ -24,8 +24,8 @@ Este es uno de los primeros proyectos en los que utilizo React, sumado a que tam
 - CSS modules
 - CSS custom properties
 - Flexbox
+- react-router-dom
   
-
 ## Author
 
 - Frontend Mentor - [@Emazs](https://www.frontendmentor.io/profile/Emazs)
