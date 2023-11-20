@@ -3,9 +3,10 @@ import style from '../css/components/header.module.css'
 
 export const Header = () => {
 
-    const [theme, setTheme] = useState('light')
+    const [theme, setTheme] = useState(localStorage.getItem("Theme"))
 
     const onHandle = () => {
+        theme == 'ligth' ? localStorage.setItem("Theme", "dark") : localStorage.setItem("Theme", "ligth")
         theme == 'dark' ? setTheme('ligth') : setTheme('dark')
     }
 
