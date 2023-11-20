@@ -11,7 +11,7 @@ Este desafio lo tome de fronten mentor.
 ### Links
 
 - Solution URL: [Github](https://github.com/Emazs/rest-countries)
-- Live Site URL: [Github page](https://rest-countries-two-umber.vercel.app/)
+- Live Site URL: [vercel page](https://rest-countries-two-umber.vercel.app/)
 
 ## My process
 
